@@ -4,4 +4,10 @@
 
 teste somente
 
-### Episódio 3
+### Episódio 1 - Instalação Windows
+
+### Episódio 2 - Instalação cliente MAC
+
+### Episódio 3 - Instalação Linux
+
+
