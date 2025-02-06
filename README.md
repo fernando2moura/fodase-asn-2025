@@ -8,4 +8,6 @@ teste somente
 
 ### Episódio 2 - Instalação cliente MAC
 
+### Episódio 3 - Instalação Linux
+
 
